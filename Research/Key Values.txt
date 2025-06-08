@@ -1,0 +1,456 @@
+Factory: FC
+
+Factory emergency exit key
+TerraGroup storage room keycard
+
+Customs: CS
+
+Company director's room key
+Dorm guard desk key
+Dorm overseer key
+Dorm room 103 key
+Dorm room 104 key
+Dorm room 105 key
+Dorm room 108 key
+Dorm room 110 key
+Dorm room 114 key
+Dorm room 118 key
+Dorm room 203 key
+Dorm room 204 key
+Dorm room 206 key
+Dorm room 214 key
+Dorm room 218 key
+Dorm room 220 key
+Dorm room 303 key
+Dorm room 306 key
+Dorm room 308 key
+Dorm room 314 marked key
+Dorm room 315 key
+Factory emergency exit key
+Gas station office key
+Gas station storage room key
+Machinery key
+Military checkpoint key
+Portable bunkhouse key
+Portable cabin key
+Tarcone Director's office key
+Trailer park portable cabin key
+Unknown key
+USEC stash key
+
+Woods: WD
+
+Old house room key
+Shatun's hideout key
+Shturman's stash key
+Yotota car key
+ZB-014 key
+
+Shoreline: SL
+
+Cottage back door key
+Cottage safe key
+Gas station safe key
+Health Resort east wing office room 107 key
+Health Resort east wing office room 108 key
+Health Resort east wing room 205 key
+Health Resort east wing room 206 key
+Health Resort east wing room 209 key
+Health Resort east wing room 213 key
+Health Resort east wing room 216 key
+Health Resort east wing room 222 key
+Health Resort east wing room 226 key
+Health Resort east wing room 306 key
+Health Resort east wing room 308 key
+Health Resort east wing room 310 key
+Health Resort east wing room 313 key
+Health Resort east wing room 314 key
+Health Resort east wing room 316 key
+Health Resort east wing room 322 key
+Health Resort east wing room 328 key
+Health Resort management office safe key
+Health Resort management warehouse safe key
+Health Resort office key with a blue tape
+Health Resort universal utility room key
+Health Resort west wing office room 104 key
+Health Resort west wing office room 112 key
+Health Resort west wing room 203 key
+Health Resort west wing room 205 key
+Health Resort west wing room 207 key
+Health Resort west wing room 216 key
+Health Resort west wing room 218 key
+Health Resort west wing room 219 key
+Health Resort west wing room 220 key
+Health Resort west wing room 221 key
+Health Resort west wing room 222 key
+Health Resort west wing room 301 key
+Health Resort west wing room 303 key
+Health Resort west wing room 306 key
+Health Resort west wing room 309 key
+Health Resort west wing room 321 safe key
+Health Resort west wing room 323 key
+Health Resort west wing room 325 key
+HEP station storage room key
+SMW car key
+Voron's hideout key
+Weather station safe key
+
+Interchange: IC
+
+EMERCOM medical unit key
+Goshan cash register key
+Grumpy's hideout key
+IDEA cash register key
+Kiba Arms inner grate door key
+Kiba Arms outer door key
+NecrusPharm pharmacy key
+Object #11SR keycard
+Object #21WS keycard
+OLI administration office key
+OLI cash register key
+OLI logistics department office key
+OLI outlet utility room key
+Power substation utility cabin key
+ULTRA medical storage key
+
+The Lab: LB
+
+TerraGroup Labs residential unit keycard
+Keycard with a blue marking
+TerraGroup Labs access keycard
+TerraGroup Labs arsenal storage room key
+TerraGroup Labs keycard (Black)
+TerraGroup Labs keycard (Blue)
+TerraGroup Labs keycard (Green)
+TerraGroup Labs keycard (Red)
+TerraGroup Labs keycard (Violet)
+TerraGroup Labs keycard (Yellow)
+TerraGroup Labs manager's office room key
+TerraGroup Labs weapon testing area key
+
+Reserve: RS
+
+RB-AK key
+RB-AM key
+RB-AO key
+RB-BK marked key
+RB-GN key
+RB-KORL key
+RB-KPRL key
+RB-KSM key
+RB-MP11 key
+RB-MP12 key
+RB-MP13 key
+RB-MP21 key
+RB-MP22 key
+RB-OB key
+RB-OP key
+RB-ORB1 key
+RB-ORB2 key
+RB-ORB3 key
+RB-PKPM marked key
+RB-PSP1 key
+RB-PSP2 key
+RB-PSV1 key
+RB-PSV2 key
+RB-RH key
+RB-RLSA key
+RB-RS key
+RB-SMP key
+RB-ST key
+RB-TB key
+RB-VO marked key
+
+Lighthouse: LH
+
+Conference room key
+Convenience store storage room key
+Hillside house key
+Leon's hideout key
+Merin car trunk key
+Operating room key
+Police truck cabin key
+Radar station commandant room key
+Rogue USEC barrack key
+Rogue USEC stash key
+Rogue USEC workshop key
+Shared bedroom marked key
+USEC cottage first safe key
+USEC cottage room key
+USEC cottage second safe key
+Water treatment plant storage room key
+
+Streets of Tarkov: ST
+
+Abandoned factory marked key
+Archive room key
+Aspect company office key
+Backup hideout key
+Beluga restaurant director key
+Car dealership closed section key
+Car dealership director's office room key
+Cargo container mesh door key
+Chekannaya 15 apartment key
+Concordia apartment 8 home cinema key
+Concordia apartment 8 room key
+Concordia apartment 34 room key
+Concordia apartment 63 room key
+Concordia apartment 64 key
+Concordia apartment 64 office room key
+Concordia security room key
+Construction site bunkhouse key
+Financial institution office key
+Financial institution small office key
+Iron gate key
+"Negotiation" room key
+MVD academy entrance hall guard room key
+Mysterious room marked key
+PE teacher's office key
+Pinewood hotel room 206 key
+Pinewood hotel room 215 key
+Primorsky 46-48 skybridge key
+Primorsky 48 apartment key
+Real estate agency office room key
+Relaxation room key
+Rusted bloody key
+Stair landing key
+Store manager's key
+Supply department director's office key
+Tarbank cash register department key
+TerraGroup meeting room key
+TerraGroup security armory key
+X-ray room key
+Zmeisky 3 apartment 8 key
+Zmeisky 5 apartment 20 key
+
+Ground Zero: GZ
+
+TerraGroup science office key
+Underground parking utility room key
+Unity Credit Bank cash register key
+
+{
+"FACTORY":["Factory emergency exit key",  "TerraGroup storage room keycard"],
+"CUSTOM":["Company director's room key",  "Dorm guard desk key",  "Dorm overseer key",  "Dorm room 103 key",  "Dorm room 104 key",  "Dorm room 105 key",  "Dorm room 108 key",  "Dorm room 110 key",  "Dorm room 114 key",  "Dorm room 118 key",  "Dorm room 203 key",  "Dorm room 204 key",  "Dorm room 206 key",  "Dorm room 214 key",  "Dorm room 218 key",  "Dorm room 220 key",  "Dorm room 303 key",  "Dorm room 306 key",  "Dorm room 308 key",  "Dorm room 314 marked key",  "Dorm room 315 key",  "Factory emergency exit key",  "Gas station office key",  "Gas station storage room key",  "Machinery key",  "Military checkpoint key",  "Portable bunkhouse key",  "Portable cabin key",  "Tarcone Director's office key",  "Trailer park portable cabin key",  "Unknown key",  "USEC stash key"],
+"WOODS":["Old house room key",  "Shatun's hideout key",  "Shturman's stash key",  "Yotota car key",  "ZB-014 key"],
+"SHORELINE":["Cottage back door key",  "Cottage safe key",  "Gas station safe key",  "Health Resort east wing office room 107 key",  "Health Resort east wing office room 108 key",  "Health Resort east wing room 205 key",  "Health Resort east wing room 206 key",  "Health Resort east wing room 209 key",  "Health Resort east wing room 213 key",  "Health Resort east wing room 216 key",  "Health Resort east wing room 222 key",  "Health Resort east wing room 226 key",  "Health Resort east wing room 306 key",  "Health Resort east wing room 308 key",  "Health Resort east wing room 310 key",  "Health Resort east wing room 313 key",  "Health Resort east wing room 314 key",  "Health Resort east wing room 316 key",  "Health Resort east wing room 322 key",  "Health Resort east wing room 328 key",  "Health Resort management office safe key",  "Health Resort management warehouse safe key",  "Health Resort office key with a blue tape",  "Health Resort universal utility room key",  "Health Resort west wing office room 104 key",  "Health Resort west wing office room 112 key",  "Health Resort west wing room 203 key",  "Health Resort west wing room 205 key",  "Health Resort west wing room 207 key",  "Health Resort west wing room 216 key",  "Health Resort west wing room 218 key",  "Health Resort west wing room 219 key",  "Health Resort west wing room 220 key",  "Health Resort west wing room 221 key",  "Health Resort west wing room 222 key",  "Health Resort west wing room 301 key",  "Health Resort west wing room 303 key",  "Health Resort west wing room 306 key",  "Health Resort west wing room 309 key",  "Health Resort west wing room 321 safe key",  "Health Resort west wing room 323 key",  "Health Resort west wing room 325 key",  "HEP station storage room key",  "SMW car key",  "Voron's hideout key",  "Weather station safe key"],
+"INTERCHANGE":["EMERCOM medical unit key",  "Goshan cash register key",  "Grumpy's hideout key",  "IDEA cash register key",  "Kiba Arms inner grate door key",  "Kiba Arms outer door key",  "NecrusPharm pharmacy key",  "Object #11SR keycard",  "Object #21WS keycard",  "OLI administration office key",  "OLI cash register key",  "OLI logistics department office key",  "OLI outlet utility room key",  "Power substation utility cabin key",  "ULTRA medical storage key"],
+"LAB":["ULTRA medical storage key",  "TerraGroup Labs residential unit keycard",  "Keycard with a blue marking",  "TerraGroup Labs access keycard",  "TerraGroup Labs arsenal storage room key",  "TerraGroup Labs keycard (Black)",  "TerraGroup Labs keycard (Blue)",  "TerraGroup Labs keycard (Green)",  "TerraGroup Labs keycard (Red)",  "TerraGroup Labs keycard (Violet)",  "TerraGroup Labs keycard (Yellow)",  "TerraGroup Labs manager's office room key",  "TerraGroup Labs weapon testing area key"],
+"RESERVE":["RB-AK key",  "RB-AM key",  "RB-AO key",  "RB-BK marked key",  "RB-GN key",  "RB-KORL key",  "RB-KPRL key",  "RB-KSM key",  "RB-MP11 key",  "RB-MP12 key",  "RB-MP13 key",  "RB-MP21 key",  "RB-MP22 key",  "RB-OB key",  "RB-OP key",  "RB-ORB1 key",  "RB-ORB2 key",  "RB-ORB3 key",  "RB-PKPM marked key",  "RB-PSP1 key",  "RB-PSP2 key",  "RB-PSV1 key",  "RB-PSV2 key",  "RB-RH key",  "RB-RLSA key",  "RB-RS key",  "RB-SMP key",  "RB-ST key",  "RB-TB key",  "RB-VO marked key"],
+"LIGHTHOUSE":["Conference room key",  "Convenience store storage room key",  "Hillside house key",  "Leon's hideout key",  "Merin car trunk key",  "Operating room key",  "Police truck cabin key",  "Radar station commandant room key",  "Rogue USEC barrack key",  "Rogue USEC stash key",  "Rogue USEC workshop key",  "Shared bedroom marked key",  "USEC cottage first safe key",  "USEC cottage room key",  "USEC cottage second safe key",  "Water treatment plant storage room key"],
+"STREET":["Abandoned factory marked key",  "Archive room key",  "Aspect company office key",  "Backup hideout key",  "Beluga restaurant director key",  "Car dealership closed section key",  "Car dealership director's office room key",  "Cargo container mesh door key",  "Chekannaya 15 apartment key",  "Concordia apartment 8 home cinema key",  "Concordia apartment 8 room key",  "Concordia apartment 34 room key",  "Concordia apartment 63 room key",  "Concordia apartment 64 key",  "Concordia apartment 64 office room key",  "Concordia security room key",  "Construction site bunkhouse key",  "Financial institution office key",  "Financial institution small office key",  "Iron gate key",  "Negotiation room key",  "MVD academy entrance hall guard room key",  "Mysterious room marked key",  "PE teacher's office key",  "Pinewood hotel room 206 key",  "Pinewood hotel room 215 key",  "Primorsky 46-48 skybridge key",  "Primorsky 48 apartment key",  "Real estate agency office room key",  "Relaxation room key",  "Rusted bloody key",  "Stair landing key",  "Store manager's key",  "Supply department director's office key",  "Tarbank cash register department key",  "TerraGroup meeting room key",  "TerraGroup security armory key",  "X-ray room key",  "Zmeisky 3 apartment 8 key",  "Zmeisky 5 apartment 20 key"],
+"GROUNDZERO":["TerraGroup science office key",  "Underground parking utility room key",  "Unity Credit Bank cash register key"]
+}
+
+
+
+
+[log-to-console@1.0.0] KEY item: 5448ba0b4bdc2d02308b456c :: Factory emergency exit key :: 20 :: Factory
+[log-to-console@1.0.0] KEY item: 5672c92d4bdc2d180f8b4567 :: Dorm room 118 key :: 40 :: Dorm 118
+[log-to-console@1.0.0] KEY item: 5780cda02459777b272ede61 :: Dorm room 306 key :: 40 :: Dorm 306
+[log-to-console@1.0.0] KEY item: 5780cf692459777de4559321 :: Dorm room 315 key :: 40 :: Dorm 315
+[log-to-console@1.0.0] KEY item: 5780cf722459777a5108b9a1 :: Dorm room 308 key :: 40 :: Dorm 308
+[log-to-console@1.0.0] KEY item: 5780cf7f2459777de4559322 :: Dorm room 314 marked key :: 10 :: Dorm mrk.
+[log-to-console@1.0.0] KEY item: 5780cf942459777df90dcb72 :: Dorm room 214 key :: 40 :: Dorm 214
+[log-to-console@1.0.0] KEY item: 5780cf9e2459777df90dcb73 :: Dorm room 218 key :: 40 :: Dorm 218
+[log-to-console@1.0.0] KEY item: 5780cfa52459777dfb276eb1 :: Dorm room 220 key :: 40 :: Dorm 220
+[log-to-console@1.0.0] KEY item: 5780d0532459777a5108b9a2 :: Tarcone Director's office key :: 40 :: Director's
+[log-to-console@1.0.0] KEY item: 5780d0652459777df90dcb74 :: Gas station office key :: 40 :: Gas office
+[log-to-console@1.0.0] KEY item: 5780d07a2459777de4559324 :: Portable cabin key :: 40 :: Cabin
+[log-to-console@1.0.0] KEY item: 57a349b2245977762b199ec7 :: Pumping station front door key :: 40 :: Pump Frnt
+[log-to-console@1.0.0] KEY item: 5913611c86f77479e0084092 :: Trailer park portable cabin key :: 40 :: Cabin
+[log-to-console@1.0.0] KEY item: 5913651986f774432f15d132 :: VAZ car key :: 40 :: Shestyorka
+[log-to-console@1.0.0] KEY item: 59136a4486f774447a1ed172 :: Dorm guard desk key :: 40 :: GDesk
+[log-to-console@1.0.0] KEY item: 59136e1e86f774432f15d133 :: Dorm room 110 key :: 40 :: Dorm 110
+[log-to-console@1.0.0] KEY item: 59136f6f86f774447a1ed173 :: Folding car key :: 40 :: Car
+[log-to-console@1.0.0] KEY item: 591382d986f774465a6413a7 :: Dorm room 105 key :: 40 :: Dorm 105
+[log-to-console@1.0.0] KEY item: 591383f186f7744a4c5edcf3 :: Dorm room 104 key :: 40 :: Dorm 104
+[log-to-console@1.0.0] KEY item: 5913877a86f774432f15d444 :: Gas station storage room key :: 40 :: Gas store
+[log-to-console@1.0.0] KEY item: 5913915886f774123603c392 :: Military checkpoint key :: 40 :: Checkpoint
+[log-to-console@1.0.0] KEY item: 5914578086f774123569ffa4 :: Dorm room 108 key :: 40 :: Dorm 108
+[log-to-console@1.0.0] KEY item: 59148c8a86f774197930e983 :: Dorm room 204 key :: 40 :: Dorm 204
+[log-to-console@1.0.0] KEY item: 59148f8286f7741b951ea113 :: Weapon safe key :: 40 :: WSafe
+[log-to-console@1.0.0] KEY item: 591ae8f986f77406f854be45 :: Yotota car key :: 40 :: Yotota
+[log-to-console@1.0.0] KEY item: 591afe0186f77431bd616a11 :: ZB-014 key :: 40 :: ZB-014
+[log-to-console@1.0.0] KEY item: 5937ee6486f77408994ba448 :: Machinery key :: 1 :: Machinery
+[log-to-console@1.0.0] KEY item: 5938144586f77473c2087145 :: Portable bunkhouse key :: 40 :: Bunkhouse
+[log-to-console@1.0.0] KEY item: 5938504186f7740991483f30 :: Dorm room 203 key :: 40 :: Dorm 203
+[log-to-console@1.0.0] KEY item: 593858c486f774253a24cb52 :: Pumping station back door key :: 40 :: Pump Back
+[log-to-console@1.0.0] KEY item: 5938603e86f77435642354f4 :: Dorm room 206 key :: 40 :: Dorm 206
+[log-to-console@1.0.0] KEY item: 59387a4986f77401cc236e62 :: Dorm room 114 key :: 40 :: Dorm 114
+[log-to-console@1.0.0] KEY item: 5938994586f774523a425196 :: Dorm room 103 key :: 40 :: Dorm 103
+[log-to-console@1.0.0] KEY item: 593962ca86f774068014d9af :: Unknown key :: 1 :: Unknown
+[log-to-console@1.0.0] KEY item: 593aa4be86f77457f56379f8 :: Dorm room 303 key :: 40 :: Dorm 303
+[log-to-console@1.0.0] KEY item: 5a0448bc86f774736f14efa8 :: Key to the closed premises of the Health Resort :: 40 :: Health Resort
+[log-to-console@1.0.0] KEY item: 5a0dc45586f7742f6b0b73e3 :: Health Resort west wing office room 104 key :: 40 :: W104 San
+[log-to-console@1.0.0] KEY item: 5a0dc95c86f77452440fc675 :: Health Resort west wing office room 112 key :: 40 :: W112 San
+[log-to-console@1.0.0] KEY item: 5a0ea64786f7741707720468 :: Health Resort east wing office room 107 key :: 40 :: E107 San
+[log-to-console@1.0.0] KEY item: 5a0ea69f86f7741cd5406619 :: Health Resort east wing office room 108 key :: 40 :: E108 San
+[log-to-console@1.0.0] KEY item: 5a0ea79b86f7741d4a35298e :: Health Resort universal utility room key :: 40 :: San util.
+[log-to-console@1.0.0] KEY item: 5a0eb38b86f774153b320eb0 :: SMW car key :: 40 :: SMW
+[log-to-console@1.0.0] KEY item: 5a0eb6ac86f7743124037a28 :: Cottage back door key :: 40 :: Cottage
+[log-to-console@1.0.0] KEY item: 5a0ec6d286f7742c0b518fb5 :: Health Resort west wing room 205 key :: 40 :: W205 San
+[log-to-console@1.0.0] KEY item: 5a0ec70e86f7742c0b518fba :: Health Resort west wing room 207 key :: 40 :: W207 San
+[log-to-console@1.0.0] KEY item: 5a0ee30786f774023b6ee08f :: Health Resort west wing room 216 key :: 40 :: W216 San
+[log-to-console@1.0.0] KEY item: 5a0ee34586f774023b6ee092 :: Health Resort west wing room 220 key :: 40 :: W220 San
+[log-to-console@1.0.0] KEY item: 5a0ee37f86f774023657a86f :: Health Resort west wing room 221 key :: 40 :: W221 San
+[log-to-console@1.0.0] KEY item: 5a0ee4b586f7743698200d22 :: Health Resort east wing room 206 key :: 40 :: E206 San
+[log-to-console@1.0.0] KEY item: 5a0ee62286f774369454a7ac :: Health Resort east wing room 209 key :: 40 :: E209 San
+[log-to-console@1.0.0] KEY item: 5a0ee72c86f77436955d3435 :: Health Resort east wing room 213 key :: 40 :: E213 San
+[log-to-console@1.0.0] KEY item: 5a0ee76686f7743698200d5c :: Health Resort east wing room 216 key :: 40 :: E216 San
+[log-to-console@1.0.0] KEY item: 5a0eeb1a86f774688b70aa5c :: Health Resort west wing room 303 key :: 40 :: W303 San
+[log-to-console@1.0.0] KEY item: 5a0eeb8e86f77461257ed71a :: Health Resort west wing room 309 key :: 40 :: W309 San
+[log-to-console@1.0.0] KEY item: 5a0eebed86f77461230ddb3d :: Health Resort west wing room 325 key :: 40 :: W325 San
+[log-to-console@1.0.0] KEY item: 5a0eec9686f77402ac5c39f2 :: Health Resort east wing room 310 key :: 40 :: E310 San
+[log-to-console@1.0.0] KEY item: 5a0eecf686f7740350630097 :: Health Resort east wing room 313 key :: 40 :: E313 San
+[log-to-console@1.0.0] KEY item: 5a0eed4386f77405112912aa :: Health Resort east wing room 314 key :: 40 :: E314 San
+[log-to-console@1.0.0] KEY item: 5a0eedb386f77403506300be :: Health Resort east wing room 322 key :: 40 :: E322 San
+[log-to-console@1.0.0] KEY item: 5a0eee1486f77402aa773226 :: Health Resort east wing room 328 key :: 40 :: E328 San
+[log-to-console@1.0.0] KEY item: 5a0eff2986f7741fd654e684 :: Health Resort west wing room 321 safe key :: 40 :: W321 safe
+[log-to-console@1.0.0] KEY item: 5a0f006986f7741ffd2fe484 :: Weather station safe key :: 40 :: Safe
+[log-to-console@1.0.0] KEY item: 5a0f045e86f7745b0f0d0e42 :: Gas station safe key :: 40 :: Gas safe
+[log-to-console@1.0.0] KEY item: 5a0f068686f7745b0d4ea242 :: Cottage safe key :: 40 :: Safe
+[log-to-console@1.0.0] KEY item: 5a0f075686f7745bcc42ee12 :: Store safe key :: 40 :: Safe
+[log-to-console@1.0.0] KEY item: 5a0f08bc86f77478f33b84c2 :: Health Resort management office safe key :: 40 :: Safe
+[log-to-console@1.0.0] KEY item: 5a0f0f5886f7741c4e32a472 :: Health Resort management warehouse safe key :: 40 :: Safe
+[log-to-console@1.0.0] KEY item: 5a13ee1986f774794d4c14cd :: Health Resort west wing room 323 key :: 40 :: W323 San
+[log-to-console@1.0.0] KEY item: 5a13eebd86f7746fd639aa93 :: Health Resort west wing room 218 key :: 40 :: W218 San
+[log-to-console@1.0.0] KEY item: 5a13ef0686f7746e5a411744 :: Health Resort west wing room 219 key :: 40 :: W219 San
+[log-to-console@1.0.0] KEY item: 5a13ef7e86f7741290491063 :: Health Resort west wing room 301 key :: 40 :: W301 San
+[log-to-console@1.0.0] KEY item: 5a13f24186f77410e57c5626 :: Health Resort east wing room 222 key :: 40 :: E222 San
+[log-to-console@1.0.0] KEY item: 5a13f35286f77413ef1436b0 :: Health Resort east wing room 226 key :: 40 :: E226 San
+[log-to-console@1.0.0] KEY item: 5a13f46386f7741dd7384b04 :: Health Resort west wing room 306 key :: 40 :: W306 San
+[log-to-console@1.0.0] KEY item: 5a144bdb86f7741d374bbde0 :: Health Resort east wing room 205 key :: 40 :: E205 San
+[log-to-console@1.0.0] KEY item: 5a144dfd86f77445cb5a0982 :: Health Resort west wing room 203 key :: 40 :: W203 San
+[log-to-console@1.0.0] KEY item: 5a1452ee86f7746f33111763 :: Health Resort west wing room 222 key :: 40 :: W222 San
+[log-to-console@1.0.0] KEY item: 5a145d4786f7744cbb6f4a12 :: Health Resort east wing room 306 key :: 40 :: E306 San
+[log-to-console@1.0.0] KEY item: 5a145d7b86f7744cbb6f4a13 :: Health Resort east wing room 308 key :: 40 :: E308 San
+[log-to-console@1.0.0] KEY item: 5a145ebb86f77458f1796f05 :: Health Resort east wing room 316 key :: 40 :: E316 San
+[log-to-console@1.0.0] KEY item: 5ad5ccd186f774446d5706e9 :: OLI administration office key :: 40 :: OLI office
+[log-to-console@1.0.0] KEY item: 5ad5cfbd86f7742c825d6104 :: OLI logistics department office key :: 40 :: OLI Log.
+[log-to-console@1.0.0] KEY item: 5ad5d20586f77449be26d877 :: OLI outlet utility room key :: 40 :: OLI util.
+[log-to-console@1.0.0] KEY item: 5ad5d49886f77455f9731921 :: Power substation utility cabin key :: 40 :: Power
+[log-to-console@1.0.0] KEY item: 5ad5d64486f774079b080af8 :: NecrusPharm pharmacy key :: 40 :: Pharmacy
+[log-to-console@1.0.0] KEY item: 5ad5d7d286f77450166e0a89 :: Kiba Arms outer door key :: 40 :: KIBA outer
+[log-to-console@1.0.0] KEY item: 5ad5db3786f7743568421cce :: EMERCOM medical unit key :: 40 :: EMC
+[log-to-console@1.0.0] KEY item: 5ad7217186f7746744498875 :: OLI cash register key :: 40 :: OLI reg.
+[log-to-console@1.0.0] KEY item: 5ad7242b86f7740a6a3abd43 :: IDEA cash register key :: 40 :: IDEA reg.
+[log-to-console@1.0.0] KEY item: 5ad7247386f7747487619dc3 :: Goshan cash register key :: 40 :: Goshan reg.
+[log-to-console@1.0.0] KEY item: 5addaffe86f77470b455f900 :: Kiba Arms inner grate door key :: 40 :: KIBA inner
+[log-to-console@1.0.0] KEY item: 5c1e2a1e86f77431ea0ea84c :: TerraGroup Labs manager's office room key :: 40 :: TGL MO
+[log-to-console@1.0.0] KEY item: 5c1e2d1f86f77431e9280bee :: TerraGroup Labs weapon testing area key :: 40 :: TGL WT
+[log-to-console@1.0.0] KEY item: 5c1f79a086f7746ed066fb8f :: TerraGroup Labs arsenal storage room key :: 40 :: TGL ASR
+[log-to-console@1.0.0] KEY item: 5d08d21286f774736e7c94c3 :: Shturman's stash key :: 1 :: SSK
+[log-to-console@1.0.0] KEY item: 5d80c60f86f77440373c4ece :: RB-BK marked key :: 10 :: RB-BK mrk.
+[log-to-console@1.0.0] KEY item: 5d80c62a86f7744036212b3f :: RB-VO marked key :: 10 :: RB-VO mrk.
+[log-to-console@1.0.0] KEY item: 5d80c66d86f774405611c7d6 :: RB-AO key :: 40 :: RB-AO
+[log-to-console@1.0.0] KEY item: 5d80c6c586f77440351beef1 :: RB-OB key :: 40 :: RB-OB
+[log-to-console@1.0.0] KEY item: 5d80c6fc86f774403a401e3c :: RB-TB key :: 40 :: RB-TB
+[log-to-console@1.0.0] KEY item: 5d80c78786f774403a401e3e :: RB-AK key :: 40 :: RB-AK
+[log-to-console@1.0.0] KEY item: 5d80c88d86f77440556dbf07 :: RB-AM key :: 40 :: RB-AM
+[log-to-console@1.0.0] KEY item: 5d80c8f586f77440373c4ed0 :: RB-OP key :: 40 :: RB-OP
+[log-to-console@1.0.0] KEY item: 5d80c93086f7744036212b41 :: RB-MP11 key :: 40 :: RB-MP11
+[log-to-console@1.0.0] KEY item: 5d80c95986f77440351beef3 :: RB-MP12 key :: 40 :: RB-MP12
+[log-to-console@1.0.0] KEY item: 5d80ca9086f774403a401e40 :: RB-MP21 key :: 40 :: RB-MP21
+[log-to-console@1.0.0] KEY item: 5d80cab086f77440535be201 :: RB-MP22 key :: 40 :: RB-MP22
+[log-to-console@1.0.0] KEY item: 5d80cb3886f77440556dbf09 :: RB-PSP1 key :: 40 :: RB-PSP1
+[log-to-console@1.0.0] KEY item: 5d80cb5686f77440545d1286 :: RB-PSV1 key :: 40 :: RB-PSV1
+[log-to-console@1.0.0] KEY item: 5d80cb8786f774405611c7d9 :: RB-PP key :: 40 :: RB-PP
+[log-to-console@1.0.0] KEY item: 5d80cbd886f77470855c26c2 :: RB-MP13 key :: 40 :: RB-MP13
+[log-to-console@1.0.0] KEY item: 5d80ccac86f77470841ff452 :: RB-ORB1 key :: 40 :: RB-ORB1
+[log-to-console@1.0.0] KEY item: 5d80ccdd86f77474f7575e02 :: RB-ORB2 key :: 40 :: RB-ORB2
+[log-to-console@1.0.0] KEY item: 5d80cd1a86f77402aa362f42 :: RB-ORB3 key :: 40 :: RB-ORB3
+[log-to-console@1.0.0] KEY item: 5d8e0db586f7744450412a42 :: RB-KORL key :: 40 :: RB-KORL
+[log-to-console@1.0.0] KEY item: 5d8e0e0e86f774321140eb56 :: RB-KPRL key :: 40 :: RB-KPRL
+[log-to-console@1.0.0] KEY item: 5d8e15b686f774445103b190 :: HEP station storage room key :: 40 :: HEPS
+[log-to-console@1.0.0] KEY item: 5d8e3ecc86f774414c78d05e :: RB-GN key :: 40 :: RB-GN
+[log-to-console@1.0.0] KEY item: 5d947d3886f774447b415893 :: RB-SMP key :: 40 :: RB-SMP
+[log-to-console@1.0.0] KEY item: 5d947d4e86f774447b415895 :: RB-KSM key :: 40 :: RB-KSM
+[log-to-console@1.0.0] KEY item: 5d95d6be86f77424444eb3a7 :: RB-PSV2 key :: 40 :: RB-PSV2
+[log-to-console@1.0.0] KEY item: 5d95d6fa86f77424484aa5e9 :: RB-PSP2 key :: 40 :: RB-PSP2
+[log-to-console@1.0.0] KEY item: 5d9f1fa686f774726974a992 :: RB-ST key :: 40 :: RB-ST
+[log-to-console@1.0.0] KEY item: 5da46e3886f774653b7a83fe :: RB-RS key :: 40 :: RB-RS
+[log-to-console@1.0.0] KEY item: 5da5cdcd86f774529238fb9b :: RB-RH key :: 40 :: RB-RH
+[log-to-console@1.0.0] KEY item: 5da743f586f7744014504f72 :: USEC stash key :: 40 :: USEC
+[log-to-console@1.0.0] KEY item: 5e42c71586f7747f245e1343 :: ULTRA medical storage key :: 40 :: ULTRA med.
+[log-to-console@1.0.0] KEY item: 5ede7a8229445733cb4c18e2 :: RB-PKPM marked key :: 10 :: RB-PKPM mrk.
+[log-to-console@1.0.0] KEY item: 5ede7b0c6d23e5473e6e8c66 :: RB-RLSA key :: 40 :: RB-RLSA
+[log-to-console@1.0.0] KEY item: 5eff09cd30a7dc22fd1ddfed :: Health Resort office key with a blue tape :: 40 :: San tape
+[log-to-console@1.0.0] KEY item: 61a64428a8c6aa1b795f0ba1 :: Convenience store storage room key :: 40 :: Store
+[log-to-console@1.0.0] KEY item: 61a6444b8c141d68246e2d2f :: Hillside house key :: 40 :: House
+[log-to-console@1.0.0] KEY item: 61a64492ba05ef10d62adcc1 :: Rogue USEC stash key :: 40 :: Stash
+[log-to-console@1.0.0] KEY item: 61aa5aed32a4743c3453d319 :: Police truck cabin key :: 40 :: Police
+[log-to-console@1.0.0] KEY item: 61aa5b518f5e7a39b41416e2 :: Merin car trunk key :: 40 :: Merin
+[log-to-console@1.0.0] KEY item: 61aa5b7db225ac1ead7957c1 :: USEC cottage first safe key :: 40 :: USEC 1
+[log-to-console@1.0.0] KEY item: 61aa5ba8018e9821b7368da9 :: USEC cottage second safe key :: 40 :: USEC 2
+[log-to-console@1.0.0] KEY item: 61aa81fcb225ac1ead7957c3 :: Rogue USEC workshop key :: 40 :: Workshop
+[log-to-console@1.0.0] KEY item: 62987c658081af308d7558c6 :: Radar station commandant room key :: 40 :: Radar
+[log-to-console@1.0.0] KEY item: 62987cb98081af308d7558c8 :: Conference room key :: 40 :: Conf.
+[log-to-console@1.0.0] KEY item: 62987da96188c076bc0d8c51 :: Operating room key :: 40 :: OR
+[log-to-console@1.0.0] KEY item: 62987dfc402c7f69bf010923 :: Shared bedroom marked key :: 10 :: Bedroom
+[log-to-console@1.0.0] KEY item: 62987e26a77ec735f90a2995 :: Water treatment plant storage room key :: 40 :: WTP store
+[log-to-console@1.0.0] KEY item: 62a09ec84f842e1bd12da3f2 :: Missam forklift key :: 40 :: Danex
+[log-to-console@1.0.0] KEY item: 62a9cb937377a65d7b070cef :: Rogue USEC barrack key :: 40 :: Barrack
+[log-to-console@1.0.0] KEY item: 6391fcf5744e45201147080f :: Primorsky Ave apartment key :: 1 :: Primorsky
+[log-to-console@1.0.0] KEY item: 6398fd8ad3de3849057f5128 :: Backup hideout key :: 1 :: Hideout
+[log-to-console@1.0.0] KEY item: 63a39667c9b3aa4b61683e98 :: Financial institution office key :: 40 :: Finance
+[log-to-console@1.0.0] KEY item: 63a397d3af870e651d58e65b :: Car dealership closed section key :: 1 :: LexOs sect.
+[log-to-console@1.0.0] KEY item: 63a399193901f439517cafb6 :: Car dealership director's office room key :: 20 :: LexOs
+[log-to-console@1.0.0] KEY item: 63a39c69af870e651d58e6aa :: Store manager's key :: 40 :: Store
+[log-to-console@1.0.0] KEY item: 63a39c7964283b5e9c56b280 :: Concordia security room key :: 40 :: Conc sec.
+[log-to-console@1.0.0] KEY item: 63a39cb1c9b3aa4b61683ee2 :: Construction site bunkhouse key :: 40 :: Construct.
+[log-to-console@1.0.0] KEY item: 63a39ce4cd6db0635c1975fa :: Supply department director's office key :: 40 :: Supp.
+[log-to-console@1.0.0] KEY item: 63a39df18a56922e82001f25 :: Zmeisky 5 apartment 20 key :: 40 :: Zm apt. 20
+[log-to-console@1.0.0] KEY item: 63a39dfe3901f439517cafba :: Zmeisky 3 apartment 8 key :: 40 :: Zm apt. 8
+[log-to-console@1.0.0] KEY item: 63a39e1d234195315d4020bd :: Primorsky 46-48 skybridge key :: 1 :: Skybridge 46-48
+[log-to-console@1.0.0] KEY item: 63a39e49cd6db0635c1975fc :: Archive room key :: 40 :: Archives
+[log-to-console@1.0.0] KEY item: 63a39f08cd6db0635c197600 :: Pinewood hotel room 215 key :: 40 :: Pnwd 215
+[log-to-console@1.0.0] KEY item: 63a39f18c2d53c2c6839c1d3 :: Pinewood hotel room 206 key :: 40 :: Pnwd 206
+[log-to-console@1.0.0] KEY item: 63a39f6e64283b5e9c56b289 :: Iron gate key :: 40 :: Iron gate
+[log-to-console@1.0.0] KEY item: 63a39fc0af870e651d58e6ae :: Chekannaya 15 apartment key :: 20 :: Chek 15
+[log-to-console@1.0.0] KEY item: 63a39fd1c9b3aa4b61683efb :: Stair landing key :: 40 :: Stairs
+[log-to-console@1.0.0] KEY item: 63a39fdf1e21260da44a0256 :: Cargo container mesh door key :: 20 :: Container
+[log-to-console@1.0.0] KEY item: 63a3a93f8a56922e82001f5d :: Abandoned factory marked key :: 10 :: Aband.
+[log-to-console@1.0.0] KEY item: 63a71e781031ac76fe773c7d :: Concordia apartment 8 room key :: 40 :: Conc 8
+[log-to-console@1.0.0] KEY item: 63a71e86b7f4570d3a293169 :: Concordia apartment 64 office room key :: 40 :: Conc off.
+[log-to-console@1.0.0] KEY item: 63a71e922b25f7513905ca20 :: Concordia apartment 64 key :: 40 :: Conc 64
+[log-to-console@1.0.0] KEY item: 63a71eb5b7f4570d3a29316b :: Primorsky 48 apartment key :: 40 :: Prim 48
+[log-to-console@1.0.0] KEY item: 63a71ed21031ac76fe773c7f :: Financial institution small office key :: 40 :: Finance s
+[log-to-console@1.0.0] KEY item: 64ccc1d4a0f13c24561edf27 :: Concordia apartment 34 room key :: 40 :: Conc 34
+[log-to-console@1.0.0] KEY item: 64ccc1ec1779ad6ba200a137 :: Concordia apartment 8 home cinema key :: 40 :: Cinema
+[log-to-console@1.0.0] KEY item: 64ccc1f4ff54fb38131acf27 :: Concordia apartment 63 room key :: 40 :: Conc 63
+[log-to-console@1.0.0] KEY item: 64ccc1fe088064307e14a6f7 :: Beluga restaurant director key :: 40 :: Beluga
+[log-to-console@1.0.0] KEY item: 64ccc206793ca11c8f450a38 :: TerraGroup meeting room key :: 40 :: TG meeting
+[log-to-console@1.0.0] KEY item: 64ccc2111779ad6ba200a139 :: Tarbank cash register department key :: 40 :: Tarbank
+[log-to-console@1.0.0] KEY item: 64ccc246ff54fb38131acf29 :: X-ray room key :: 40 :: X-ray
+[log-to-console@1.0.0] KEY item: 64ccc24de61ea448b507d34d :: TerraGroup security armory key :: 40 :: TG arm.
+[log-to-console@1.0.0] KEY item: 64ccc25f95763a1ae376e447 :: Mysterious room marked key :: 10 :: Chek. 13
+[log-to-console@1.0.0] KEY item: 64ccc268c41e91416064ebc7 :: PE teacher's office key :: 40 :: PE
+[log-to-console@1.0.0] KEY item: 64ce572331dd890873175115 :: Aspect company office key :: 1 :: Aspect
+[log-to-console@1.0.0] KEY item: 64d4b23dc1b37504b41ac2b6 :: Rusted bloody key :: 1 :: Rusted
+[log-to-console@1.0.0] KEY item: 6581998038c79576a2569e11 :: Unity Credit Bank cash register key :: 40 :: UC reg.
+[log-to-console@1.0.0] KEY item: 658199972dc4e60f6d556a2f :: Underground parking utility room key :: 40 :: Utility
+[log-to-console@1.0.0] KEY item: 658199aa38c79576a2569e13 :: TerraGroup science office key :: 1 :: Science
+[log-to-console@1.0.0] KEY item: 6582dbe43a2e5248357dbe9a :: "Negotiation" room key :: 40 :: Negotiations
+[log-to-console@1.0.0] KEY item: 6582dbf0b8d7830efc45016f :: Relaxation room key :: 2 :: Relax
+[log-to-console@1.0.0] KEY item: 6582dc4b6ba9e979af6b79f4 :: MVD academy entrance hall guard room key :: 40 :: MVD
+[log-to-console@1.0.0] KEY item: 6582dc5740562727a654ebb1 :: Real estate agency office room key :: 40 :: REA
+[log-to-console@1.0.0] KEY item: 66265d7be65f224b2e17c6aa :: USEC cottage room key :: 40 :: USEC cott.
+[log-to-console@1.0.0] KEY item: 664d3db6db5dea2bad286955 :: Shatun's hideout key :: 5 :: Shatun
+[log-to-console@1.0.0] KEY item: 664d3dd590294949fe2d81b7 :: Grumpy's hideout key :: 5 :: Grumpy
+[log-to-console@1.0.0] KEY item: 664d3ddfdda2e85aca370d75 :: Voron's hideout key :: 5 :: Voron
+[log-to-console@1.0.0] KEY item: 664d3de85f2355673b09aed5 :: Leon's hideout key :: 5 :: Leon
+[log-to-console@1.0.0] KEY item: 664d4b0103ef2c61246afb56 :: Dorm overseer key :: 2 :: Overseer
+[log-to-console@1.0.0] KEY item: 66687bc89111279d600b5062 :: Tarkov City souvenir key :: 1 :: Souvenir
+[log-to-console@1.0.0] KEY_CARDS item: 5c1d0c5f86f7744bb2683cf0 :: TerraGroup Labs keycard (Blue) :: 10 :: Blue
+[log-to-console@1.0.0] KEY_CARDS item: 5c1d0d6d86f7744bb2683e1f :: TerraGroup Labs keycard (Yellow) :: 10 :: Yellow
+[log-to-console@1.0.0] KEY_CARDS item: 5c1d0dc586f7744baf2e7b79 :: TerraGroup Labs keycard (Green) :: 10 :: Green
+[log-to-console@1.0.0] KEY_CARDS item: 5c1d0efb86f7744baf2e7b7b :: TerraGroup Labs keycard (Red) :: 10 :: Red
+[log-to-console@1.0.0] KEY_CARDS item: 5c1d0f4986f7744bb01837fa :: TerraGroup Labs keycard (Black) :: 10 :: Black
+[log-to-console@1.0.0] KEY_CARDS item: 5c1e495a86f7743109743dfb :: TerraGroup Labs keycard (Violet) :: 10 :: Violet
+[log-to-console@1.0.0] KEY_CARDS item: 5c94bbff86f7747ee735c08f :: TerraGroup Labs access keycard :: 1 :: Access
+[log-to-console@1.0.0] KEY_CARDS item: 5e42c81886f7742a01529f57 :: Object #11SR keycard :: 10 :: #11SR
+[log-to-console@1.0.0] KEY_CARDS item: 5e42c83786f7742a021fdf3c :: Object #21WS keycard :: 10 :: #21WS
+[log-to-console@1.0.0] KEY_CARDS item: 5efde6b4f5448336730dbd61 :: Keycard with a blue marking :: 1 :: Keycard
+[log-to-console@1.0.0] KEY_CARDS item: 66acd6702b17692df20144c0 :: TerraGroup storage room keycard :: 10 :: Polikhim
+[log-to-console@1.0.0] KEY_CARDS item: 6711039f9e648049e50b3307 :: TerraGroup Labs residential unit keycard  :: 2 :: Res. unit
